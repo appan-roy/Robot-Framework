@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;DataDrivenTesting/Acceptance Tests/test cases/DataDrivenTestingDemo.robot&apos; to &apos;DataDrivenTest.robot&apos;" description="Rename resource &apos;DataDrivenTestingDemo.robot&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="Acceptance Tests/test cases/DataDrivenTestingDemo.robot" name="DataDrivenTest.robot" stamp="1573626016210" updateReferences="true"/>
+</session>
