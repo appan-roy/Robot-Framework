@@ -34,3 +34,4 @@ Logout
     Click Link    Welcome Admin
     Sleep    2      
     Click Link    Logout
+    

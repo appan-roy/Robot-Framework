@@ -1,7 +1,6 @@
 *** Settings ***
 Library    SeleniumLibrary   
 
-
 *** Test Cases ***
 Chrome Test
     Open Browser    https://www.google.co.in/    Chrome
@@ -13,7 +12,6 @@ Chrome Test
     Close Browser
     Log    Test completed    
       
-    
 IE Test
     Open Browser    https://www.google.co.in/    IE
     Maximize Browser Window
@@ -23,3 +21,4 @@ IE Test
     Sleep    3    
     Close Browser
     Log    Test completed    
+    

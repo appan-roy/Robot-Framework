@@ -1,78 +1,213 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <section name="Workbench">
 	<section name="org.robotframework.ide.project.editor.activePage.DataDrivenTesting">
-		<item value="GeneralProjectConfigurationEditorPart" key="activePage"/>
+		<item value="LibrariesProjectConfigurationEditorPart" key="activePage"/>
 	</section>
-	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/Test Cases/FirstSeleniumTestCase.robot">
+	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/test cases/RadioButtonsHandlingDemo.robot">
 		<item value="" key="activePage"/>
 	</section>
-	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/data/DataDrivenTest-data.robot">
+	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/test cases/MouseOperationsDemo.robot">
 		<item value="" key="activePage"/>
 	</section>
-	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/test cases/FirstRobotTest.robot">
+	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/resources/HomePageKeywords.robot">
 		<item value="" key="activePage"/>
 	</section>
-	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/lib/library.robot">
+	<section name="org.robotframework.ide.tableditor.activePage./RobotAPIAutomation/Tests/REST API/LocalAPI/DELETE.robot">
 		<item value="" key="activePage"/>
 	</section>
-	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/test cases/VariablesUsageDemo.robot">
+	<section name="org.robotframework.ide.tableditor.activePage./RobotAPIAutomation/Tests/REST API/HeadersAndCookies/ReadHeadersAndCookies.robot">
 		<item value="" key="activePage"/>
 	</section>
-	<section name="org.robotframework.ide.tableditor.activePage./DataDrivenTesting/Acceptance Tests/lib/DataDrivenTest-lib.robot">
+	<section name="org.robotframework.ide.tableditor.activePage./RobotAPIAutomation/Tests/REST API/JSONReader/ReadHeadersNCookies.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./RobotAPIAutomation/Tests/test cases/GET.robot">
 		<item value="" key="activePage"/>
 	</section>
 	<section name="org.robotframework.ide.tableditor.activePage./DataDrivenTesting/Acceptance Tests/data/DataDrivenTest-data.robot">
 		<item value="" key="activePage"/>
 	</section>
-	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/test cases/FirstSeleniumTestCase.robot">
+	<section name="org.robotframework.ide.tableditor.activePage./DataDrivenTesting/Tests/testcases/DataDrivenTestExcel.robot">
 		<item value="" key="activePage"/>
 	</section>
-	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/test cases/TestBrowsers.robot">
+	<section name="org.robotframework.ide.tableditor.activePage./RobotAPIAutomation/Tests/REST API/DataDrivenTesting/testcases/CreateUser_DDT.robot">
 		<item value="" key="activePage"/>
 	</section>
-	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/test cases/TagsDemo.robot">
+	<section name="org.robotframework.ide.tableditor.activePage./RobotAPIAutomation/Tests/LocalAPI/POST.robot">
 		<item value="" key="activePage"/>
 	</section>
 	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/test cases/SetupTeardownDemo2.robot">
 		<item value="" key="activePage"/>
 	</section>
-	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/test cases/KeywordsReturnDemo.robot">
-		<item value="" key="activePage"/>
-	</section>
-	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/test cases/FirstRobotTestDemo.robot">
-		<item value="" key="activePage"/>
-	</section>
 	<section name="org.robotframework.ide.project.editor.activePage.LearnRobotFramework">
 		<item value="GeneralProjectConfigurationEditorPart" key="activePage"/>
 	</section>
-	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/test cases/RecordingDemo.robot">
+	<section name="org.robotframework.ide.tableditor.activePage./RobotAPIAutomation/Tests/REST API/LocalAPI/PUT.robot">
 		<item value="" key="activePage"/>
 	</section>
-	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/Tests/lib/library.robot">
+	<section name="org.robotframework.ide.tableditor.activePage./RobotAPIAutomation/Tests/REST API/Parameterization/SimplePayload.robot">
 		<item value="" key="activePage"/>
 	</section>
-	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/test cases/KeywordsWithArgsDemo.robot">
-		<item value="" key="activePage"/>
-	</section>
-	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/test cases/TestBrowsersDemo.robot">
-		<item value="" key="activePage"/>
-	</section>
-	<section name="org.robotframework.ide.tableditor.activePage./DataDrivenTesting/Acceptance Tests/test cases/DataDrivenTest.robot">
-		<item value="" key="activePage"/>
-	</section>
-	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/data/testdata.robot">
-		<item value="" key="activePage"/>
-	</section>
-	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/test cases/KeywordsDemo.robot">
+	<section name="org.robotframework.ide.tableditor.activePage./RobotAPIAutomation/Tests/XMLReader/ReadXmlDataFromFile.robot">
 		<item value="" key="activePage"/>
 	</section>
 	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/lib/DataDrivenTest-lib2.robot">
 		<item value="" key="activePage"/>
 	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/test cases/InputBoxHandlingDemo.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/test cases/BrowserNavigationDemo.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./RobotAPIAutomation/Tests/REST API/Parameterization/ComplexPayload.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./RobotAPIAutomation/Tests/REST API/APIChaining/POST.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./RobotAPIAutomation/Tests/JSONReader/ReadJsonDataFromResponse.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/test cases/ScreenshotDemo.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./RobotAPIAutomation/Tests/REST API/Authentication/BasicAuth.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/test cases/VariablesUsageDemo.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/test cases/DropdownHandlingDemo.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./RobotAPIAutomation/Tests/LocalAPI/PUT.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/test cases/RadioButtonHandlingDemo.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/test cases/FirstSeleniumTestCase.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./RobotAPIAutomation/Tests/REST API/DataDrivenTesting/CreateUser_DDT.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/test cases/TagsDemo.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./RobotAPIAutomation/Tests/REST API/JSONReader/ReadJsonDataFromResponse.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/test cases/FirstRobotTestDemo.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/test cases/SynchronizationDemo.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/resources/LoginPageOps.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./RobotAPIAutomation/Tests/XMLReader/ReadXmlDataFromResponse.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./RobotAPIAutomation/Tests/REST API/JSONReader/ReadHeadersAndCookies.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/Tests/lib/library.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/test cases/TestBrowsersDemo.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./RobotAPIAutomation/Tests/REST API/DataDrivenTesting/DDT.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./DataDrivenTesting/Acceptance Tests/test cases/DataDrivenTest.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./RobotAPIAutomation/Test Data/PayloadData.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/test cases/MultiTabbedWindowHandlingDemo.robot">
+		<item value="" key="activePage"/>
+	</section>
 	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/test cases/MultiWindowHandlingDemo.robot">
 		<item value="" key="activePage"/>
 	</section>
-	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/lib/DataDrivenTest-lib.robot">
+	<section name="problemPreferences">
+		<item value="false" key="ROBOT_VERSION"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./RobotAPIAutomation/Tests/REST API/DataDrivenTesting/resources/Resource.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/Test Cases/FirstSeleniumTestCase.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./RobotAPIAutomation/Tests/LocalAPI/DELETE.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/paralleltestcases/BrowserNavigationDemo.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/test cases/FirstRobotTest.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./DataDrivenTesting/Acceptance Tests/lib/DataDrivenTest-lib.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/test cases/WebTableHandlingDemo.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/test cases/LinksDemo.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/test cases/FrameHandlingDemo.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/resources/CommonKeywords.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./DataDrivenTesting/Tests/resources/Resource.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./RobotAPIAutomation/Tests/REST API/Chaining/POST.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./RobotAPIAutomation/Tests/REST API/LocalAPI/POST.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./RobotAPIAutomation/Tests/SOAP API/XMLReader/ReadXmlDataFromResponse.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/test cases/KeywordsReturnDemo.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./RobotAPIAutomation/Tests/REST API/LocalAPI/GET.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./RobotAPIAutomation/Tests/REST API/Chaining/APIChaining.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/test cases/RecordingDemo.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/test cases/InputBoxHandling.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/data/testdata.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.project.editor.activePage.RobotAPIAutomation">
+		<item value="LibrariesProjectConfigurationEditorPart" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./RobotAPIAutomation/Tests/LocalAPI/PATCH.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./RobotAPIAutomation/Tests/JSONReader/ReadJsonDataFromFile.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./DataDrivenTesting/Tests/resources.robot">
 		<item value="" key="activePage"/>
 	</section>
 	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/test cases/KeywordsWithPythonDemo.robot">
@@ -81,7 +216,79 @@
 	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/test cases/DataDrivenTestingDemo.robot">
 		<item value="" key="activePage"/>
 	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./RobotAPIAutomation/Tests/LocalAPI/GET.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./RobotAPIAutomation/Tests/REST API/Authentication/BearerToken.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/LoginPageOps.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./RobotAPIAutomation/Tests/REST API/JSONReader/ReadJsonDataFromFile.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./RobotAPIAutomation/Tests/REST API/LocalAPI/PATCH.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/data/DataDrivenTest-data.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./RobotAPIAutomation/Tests/SOAP API/XMLReader/ReadXmlDataFromFile.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/lib/library.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/resources/LoginPageKeywords.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/test cases/MultiBrowserWindowhandlingDemo.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/paralleltestcases/AlertHandlingDemo.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/test cases/PageObjectModelDemo.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/test cases/TestBrowsers.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./DataDrivenTesting/Tests/testcases/DataDrivenTestCSV.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/test cases/ListboxHandlingDemo.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/test cases/KeywordsWithArgsDemo.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/test cases/CheckboxHandlingDemo.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./RobotAPIAutomation/Tests/JSONReader/ReadJsonData.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./DataDrivenTesting/Tests/testcases/DataDrivenTestDemo.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/test cases/KeywordsDemo.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/lib/DataDrivenTest-lib.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./RobotAPIAutomation/Tests/REST API/APIChaining/GET.robot">
+		<item value="" key="activePage"/>
+	</section>
 	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/test cases/SetupTeardownDemo.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/test cases/AlertHandlingDemo.robot">
+		<item value="" key="activePage"/>
+	</section>
+	<section name="org.robotframework.ide.tableditor.activePage./LearnRobotFramework/Tests/test cases/PageScrollDemo.robot">
 		<item value="" key="activePage"/>
 	</section>
 </section>

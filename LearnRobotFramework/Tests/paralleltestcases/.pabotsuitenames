@@ -1,0 +1,6 @@
+datasources:4c5e0bae4327d206c7ebcadf3e52f5d0bce8f981
+commandlineoptions:9f8598a690c7367accf83ead504756ddd374acc9
+suitesfrom:no-suites-from-option
+file:2fc6dbb55a61f243561d8306c309ddb94492bf62
+--suite Suites.AlertHandlingDemo
+--suite Suites.BrowserNavigationDemo

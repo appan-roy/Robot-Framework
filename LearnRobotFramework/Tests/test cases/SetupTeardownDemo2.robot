@@ -2,7 +2,6 @@
 Documentation  This is a demo test case of test setup and tear down
 Library     SeleniumLibrary
 
-
 *** Test Cases ***
 Facebook Login Test Case
     [Setup]    Start Browser and Maximize
@@ -26,7 +25,6 @@ Facebook Registration Test Case
     Select From List By Value  name=birthday_year  1990
     Select Radio Button  sex  2
 
-
 *** Keywords ***
 Start Browser and Maximize
 
@@ -41,7 +39,6 @@ Close Browser Window
     [Tags]  This will close the active browser
 
     Close Browser
-
 
 *** Variables ***
 ${Browser}  Chrome

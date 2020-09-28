@@ -1,7 +1,6 @@
 *** Settings ***
 Library    SeleniumLibrary    
 
-
 *** Test Cases ***
 Login Test
     [Documentation]    This is a sample login test
