@@ -1,0 +1,31 @@
+Traceback (most recent call last):
+  File "c:\users\appan\appdata\local\programs\python\python38\lib\runpy.py", line 192, in _run_module_as_main
+    return _run_code(code, main_globals, None,
+  File "c:\users\appan\appdata\local\programs\python\python38\lib\runpy.py", line 85, in _run_code
+    exec(code, run_globals)
+  File "C:\Users\APPAN\AppData\Local\Programs\Python\Python38\Scripts\robot.exe\__main__.py", line 5, in <module>
+  File "c:\users\appan\appdata\local\programs\python\python38\lib\site-packages\robot\__init__.py", line 44, in <module>
+    from robot.rebot import rebot, rebot_cli
+  File "c:\users\appan\appdata\local\programs\python\python38\lib\site-packages\robot\rebot.py", line 40, in <module>
+    from robot.conf import RebotSettings
+  File "c:\users\appan\appdata\local\programs\python\python38\lib\site-packages\robot\conf\__init__.py", line 27, in <module>
+    from .settings import RobotSettings, RebotSettings
+  File "c:\users\appan\appdata\local\programs\python\python38\lib\site-packages\robot\conf\settings.py", line 22, in <module>
+    from robot.output import LOGGER, loggerhelper
+  File "c:\users\appan\appdata\local\programs\python\python38\lib\site-packages\robot\output\__init__.py", line 22, in <module>
+    from .output import Output
+  File "c:\users\appan\appdata\local\programs\python\python38\lib\site-packages\robot\output\output.py", line 16, in <module>
+    from . import pyloggingconf
+  File "c:\users\appan\appdata\local\programs\python\python38\lib\site-packages\robot\output\pyloggingconf.py", line 19, in <module>
+    from robot.utils import get_error_details, unic
+  File "c:\users\appan\appdata\local\programs\python\python38\lib\site-packages\robot\utils\__init__.py", line 36, in <module>
+    from .argumentparser import ArgumentParser, cmdline2list
+  File "c:\users\appan\appdata\local\programs\python\python38\lib\site-packages\robot\utils\argumentparser.py", line 29, in <module>
+    from .encoding import console_decode, system_decode
+  File "<frozen importlib._bootstrap>", line 991, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 975, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 671, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 779, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 874, in get_code
+  File "<frozen importlib._bootstrap_external>", line 972, in get_data
+KeyboardInterrupt
